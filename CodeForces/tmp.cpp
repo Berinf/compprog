@@ -25,3 +25,6 @@ int main() {
     while(t--) solve();
     return 0;
 }
+
+
+//g++ 15_12_24_DIV_4/ -o build/main
